@@ -34,14 +34,6 @@ bash
 Copy
 Edit
 python app.py
-Open your browser and go to:
-
-arduino
-Copy
-Edit
-http://127.0.0.1:5000/register
-✅ Features
-User Registration & Login with SQLite
 
 Flash messages for success/error
 
